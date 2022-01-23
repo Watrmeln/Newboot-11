@@ -11,5 +11,5 @@ Newboot is written entirely in windows Batch script, with help from Stack overfl
 # Why is Newboot?
 I wanted to make a way to quickly, harmlessly, and easily make a way for normies who think regedit is scary and people who just want simple to activate the new boot animation on their Windows 11 systems.
 
-#When is Newboot?
+# When is Newboot?
 Anytime, anywhere. Feel free to install, mod, and give at will, no restrictions.
